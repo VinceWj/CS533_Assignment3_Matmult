@@ -1,4 +1,4 @@
-# CS533_Assignment3_Matmult
+# CS533 Assignment3 Matrix Multiplication Code
 This is the C code you will use for Project 3.
 
 You will need to load the following modules when you compile and run your code on Wheeler:
